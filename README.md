@@ -30,3 +30,7 @@ A powerful C++ tool to simplify Boolean expressions using the **Kitty** library.
 Run the following command in your terminal:
 ```bash
 g++ -std=c++17 main.cpp -I ../kitty/include -o logic_minimizer
+
+
+<img width="1169" height="760" alt="image" src="https://github.com/user-attachments/assets/48da3b7f-ab08-42a8-9d9c-96b4639b5087" />
+

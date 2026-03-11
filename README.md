@@ -15,7 +15,7 @@ A powerful C++ tool to simplify Boolean expressions using the **Kitty** library.
 |-----------|--------|---------|
 | **AND** | `&`    | `a & b` |
 | **OR** | `\|`   | `a \| b`|
-| **NOT** | `!` or `~` | `!a`    |
+| **NOT** | `!`  | `!a`    |
 | **XOR** | `^`    | `a ^ b` |
 
 
